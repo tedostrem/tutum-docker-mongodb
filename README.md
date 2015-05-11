@@ -1,3 +1,6 @@
+This is a fork of tutum-docker-mongodb with added support for replica sets
+
+
 tutum-docker-mongodb
 ====================
 
